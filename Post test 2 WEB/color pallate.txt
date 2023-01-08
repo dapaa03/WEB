@@ -1,0 +1,4 @@
+00ABB3 teal
+3C4048 black
+B2B2B2 grey
+EAEAEA white
